@@ -18,12 +18,12 @@ from data_cleaning import (
 # CONFIGURAÇÃO DA PÁGINA
 # =============================
 st.set_page_config(
-    page_title="DATA CLEANER",
+    page_title="CSV DATA CLEANER",
     page_icon="🧹",
     layout="wide"
 )
 
-st.title("🧹 DATA CLEANER")
+st.title("🧹 CSV DATA CLEANER")
 st.caption("Ferramentas para limpeza, padronização e auditoria de dados.")
 
 st.divider()
