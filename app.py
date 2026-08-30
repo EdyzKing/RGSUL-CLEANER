@@ -18,12 +18,12 @@ from data_cleaning import (
 # CONFIGURAÇÃO DA PÁGINA
 # =============================
 st.set_page_config(
-    page_title="RGSUL DATA CLEANER",
+    page_title="DATA CLEANER",
     page_icon="🧹",
     layout="wide"
 )
 
-st.title("🧹 RGSUL DATA CLEANER")
+st.title("🧹 DATA CLEANER")
 st.caption("Ferramentas para limpeza, padronização e auditoria de dados.")
 
 st.divider()
